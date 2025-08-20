@@ -1,9 +1,6 @@
 # Model files
 *.pth
 
-# Image files
-*.png
-
 # Pickle/cache files
 *.pkl
 
